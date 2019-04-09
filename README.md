@@ -24,3 +24,6 @@ Hasil dari pencarian
 Hasil dari database
 ![alt text](https://github.com/KadekJ/modul_7_5dan6/blob/master/8.PNG)
 ![alt text](https://github.com/KadekJ/modul_7_5dan6/blob/master/9.PNG)
+
+Hasil relasi
+![alt text](https://github.com/KadekJ/modul_7_5dan6/blob/master/10.PNG)
